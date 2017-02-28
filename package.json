@@ -48,5 +48,6 @@
   "dependencies": {
     "chartjs-color": "~2.0.0",
     "moment": "^2.10.6"
-  }
+  },
+  "typings": "./src/chartjs.d.ts"
 }
